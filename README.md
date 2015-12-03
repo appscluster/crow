@@ -26,7 +26,7 @@ int main()
    - Similiar to Flask
    - Type-safe Handlers (see Example)
  - Very Fast
-   - ![Benchmark Result in one chart](https://docs.google.com/spreadsheets/d/1KidO9XpuwCRZ2p_JRDJj2aep61H8Sh_KDOhApizv4LE/pubchart?oid=2041467789&format=image)
+   - ![Benchmark Result in one chart](https://camo.githubusercontent.com/890a8cc686d800e3e5a074ec8b6922ada48accfe/68747470733a2f2f646f63732e676f6f676c652e636f6d2f7370726561647368656574732f642f314b69644f395870757743525a32705f4a52444a6a326165703631483853685f4b444f684170697a76344c452f70756263686172743f6f69643d3230343134363737383926666f726d61743d696d616765)
    - More data on [crow-benchmark](https://github.com/ipkn/crow-benchmark)
  - Fast built-in JSON parser (crow::json)
  - [Mustache](http://mustache.github.io/) based templating library (crow::mustache)
