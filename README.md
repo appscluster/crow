@@ -118,6 +118,10 @@ ctest
 
 #### Ubuntu
     sudo apt-get install build-essential libtcmalloc-minimal4 && sudo ln -s /usr/lib/libtcmalloc_minimal.so.4 /usr/lib/libtcmalloc_minimal.so
+    
+#### Fedora 22
+    dnf groupinstall "Development Tools"
+    dnf install boost google-perftools google-perftools-devel
 
 #### OSX
     brew install boost google-perftools
